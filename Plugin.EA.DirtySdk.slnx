@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Plugin.EA.DirtySdk/Plugin.EA.DirtySdk.csproj" />
+  <Project Path="Plugin.EA.DirtySdk.Tests/Plugin.EA.DirtySdk.Tests.csproj" />
+</Solution>
